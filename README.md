@@ -1,4 +1,4 @@
-Hola, mi apellido es Canul y soy pasante de la licenciatura de Actuaría. 
+Hola, mi apellido es Canul y soy pasante de la licenciatura en Actuaría. 
 
 Estoy interesado en la probabilidad y estadística, así como de sus aplicaciones en el análisis de datos para dar respuesta a problemas de los sectores asegurador y financiero.
 
